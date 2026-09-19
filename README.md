@@ -1,6 +1,6 @@
 # 🌍 CONCORDIA — Belongs to Our Species
 
-**CONCORDIA** is an open-source, decentralized, and global technological infrastructure designed to allow humanity to express its collective will on key decisions affecting our shared future.
+**CONCORDIA** is an open-source, decentralized, and global technological infrastructure designed to allow humanity to express its collective will on decisions affecting our shared future.
 
 ---
 
