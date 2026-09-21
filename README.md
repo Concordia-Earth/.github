@@ -31,6 +31,7 @@ We are looking for developers, cryptography researchers, social activists, and U
 - 🌐 **Website:** [concordia.earth](https://concordia.earth)
 - 💼 **LinkedIn:** [CONCORDIA on LinkedIn](https://www.linkedin.com/company/concordia-earth)
 - 📧 **Contact:** contact@concordia.earth
+
 ---
 
 ## ⚖️ License & Legal Disclaimer
